@@ -53,6 +53,8 @@ Medium Blue: 1,000 - 4,999 refugees
 
 Deep Blue: > 20,000 refugees
 
+For more information on the project, please see the Cuban Data Analysis PDF.
+
 Credits
 Mapping Functions: Based on the Borders script by Chad A. Greene.
 
