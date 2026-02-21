@@ -58,4 +58,4 @@ For more information on the project, please see the Cuban Data Analysis PDF.
 Credits
 Mapping Functions: Based on the Borders script by Chad A. Greene.
 
-Research & Analysis: Data compiled for the Metoyer Lab RAG Project, focusing on Caribbean immigration trends.
+Research & Analysis: Data focusing on Caribbean immigration trends.
